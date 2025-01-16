@@ -52,3 +52,27 @@ let negValue = -value
  console.log(+true);
  console.log(true);
 
+
+
+ let num1 , num2, num3
+ num1= num2 =num3 = 2+2
+
+ let gameCounter =100
+ ++gameCounter;
+ console.log(gameCounter);
+
+// prefix and postfix  //
+// link to study 
+// ==> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment//
+ 
+ let x = 3;
+const y = x++;
+
+console.log(`x:${x}, y:${y}`);
+// Expected output: "x:4, y:3"
+
+let a = 3;
+const b = ++a;
+
+console.log(`a:${a}, b:${b}`);
+// Expected output: "a:4, b:4"
