@@ -46,8 +46,3 @@ console.log(instructor)
 // console.log(course.price)
 // console.log(course.isFree)
 
-[
-    {},
-    {},
-
-]
