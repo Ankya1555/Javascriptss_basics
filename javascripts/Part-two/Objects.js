@@ -45,4 +45,3 @@ console.log(instructor)
 // console.log(course.courseInstructor)
 // console.log(course.price)
 // console.log(course.isFree)
-
