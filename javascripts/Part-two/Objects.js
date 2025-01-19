@@ -17,3 +17,9 @@ console.log(JsUser.email)
 console.log(JsUser.isLoggedIn);
 console.log(JsUser.name)
 console.log(JsUser.location);
+
+const tinderuser = {}
+tinderuser.id = "123abc"
+tinderuser.name = "aniii"
+tinderuser.isLoggedIn =false
+console.log(tinderuser);
